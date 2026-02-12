@@ -1,0 +1,15 @@
+{
+  "$GMRedditOptions":"v2",
+  "%Name":"Reddit",
+  "name":"Reddit",
+  "option_reddit_devvit_project_id":"daily-dash-game",
+  "option_reddit_devvit_project_path":"/home/rogerkorantenng/dev/Hackathons/devvit-template-gamemaker",
+  "option_reddit_display_cursor":true,
+  "option_reddit_game_name":"Daily Dash",
+  "option_reddit_interpolate_pixels":true,
+  "option_reddit_scale":1,
+  "option_reddit_texture_page":"2048x2048",
+  "option_reddit_transparent_background":false,
+  "resourceType":"GMRedditOptions",
+  "resourceVersion":"2.0",
+}
